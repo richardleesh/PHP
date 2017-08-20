@@ -1,6 +1,6 @@
 # my PHP projects and assignments code
 
-## Project Specification
+## Project_1 Specification
 
 ### Create An Online PHP Product Comparison Tool
 
