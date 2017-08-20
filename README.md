@@ -1,7 +1,7 @@
-"my PHP projects and assignments code" 
+# my PHP projects and assignments code
 
-Project Specification
-"
+## Project Specification
+
 ### Create An Online PHP Product Comparison Tool
 
 You will create a PHP/MySQL website that will compare cell phones. There will be 1 table, 4 fields and 6 items: Model, OS, version, price. The database will be self-populated with CSV files. You may choose the items. The client will have the option to choose the comparison product, the number of items to search for based on price range. Your PHP will page will present the form for input, search the appropriate table for models and return the results.
